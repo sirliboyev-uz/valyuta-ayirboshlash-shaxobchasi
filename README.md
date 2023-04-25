@@ -1,12 +1,12 @@
 # valyuta-ayirboshlash-shaxobchasi
 
-Valyuta ayirboshlash shaxobchasining ma’lumotlar bazasi tuzilishi.
+# Valyuta ayirboshlash shaxobchasining ma’lumotlar bazasi tuzilishi.
 ![image](https://user-images.githubusercontent.com/98663032/234186374-f723f4e9-3457-474f-b15a-e247366fb93e.png) 
 1-rasm.Ma’lumotlar bazasi
 Bu rasmda ma’lumotlar bazasida valyuta ayirboshlagan mijozlarning umumiy ma’lumoti.
 
 
-Dasturning ishlash tartibi
+# Dasturning ishlash tartibi
 ![image](https://user-images.githubusercontent.com/98663032/234186585-56b77103-9f8f-422e-a83b-1d5ce498d003.png)
 2-rasm.Kirish qismi.Admin va hodim. Foydalanuvch login va parol bilan tizimga kirish qismi
 
